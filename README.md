@@ -19,9 +19,7 @@ This application delivers real, analytical value through:
 
 ## 📹 Demo Video
 
-https://github.com/user-attachments/assets/742f7fea-745b-4a0f-aa51-4bd8a0ca9105
-
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/JZ6Isim2e48)
+[![Demo Video](https://github.com/mokshpunamiya/Agentic-AI-for-Industries/blob/757dc90655e507c6188ab46774a8491bfa9cf9be/assets/Screenshot%202025-09-09%20140704.png)](https://youtu.be/JZ6Isim2e48)
 
 *Click the image above to watch the demo video showcasing the Agentic AI System in action.*
 
@@ -161,14 +159,6 @@ CREATE TABLE kpis (
 3. **Transformation**: Feature engineering and aggregation
 4. **Storage**: Processed data stored in structured database
 5. **Analysis**: AI agents process data for insights and recommendations
-
-## 🖼️ UI Screens
-
-### 🔎 Query-Based Analysis Output
-![Query Results](assets/query_results.png)
-
-### 🧠 Application Dashboard
-![Dashboard UI](assets/dashboard.png)
 
 ## 📊 Example Insights from AI Agents
 
@@ -365,7 +355,7 @@ Planned improvements include:
 For questions, issues, or feature requests:
 - Check the documentation in this README
 - Review the `/docs` folder for detailed guides
-- Contact the development team at support@example.com
+- Contact the development team at mokshtsec@gmail.com
 - Report bugs via the issue tracker on GitHub
 
 ## 📄 License
