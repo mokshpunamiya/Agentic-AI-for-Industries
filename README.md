@@ -17,6 +17,14 @@ This application delivers real, analytical value through:
 - **Sector-Specific Insights**: Tailored analysis for different industry sectors
 - **Decision Support**: Policy recommendations and strategic insights
 
+## 📹 Demo Video
+
+https://github.com/user-attachments/assets/742f7fea-745b-4a0f-aa51-4bd8a0ca9105
+
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/JZ6Isim2e48)
+
+*Click the image above to watch the demo video showcasing the Agentic AI System in action.*
+
 ## 🏗️ Project Structure
 
 ```
@@ -261,13 +269,6 @@ streamlit run app.py
 
 Access the application at `http://localhost:8501` in your web browser.
 
-## 📹 Demo Video
-
-https://github.com/user-attachments/assets/742f7fea-745b-4a0f-aa51-4bd8a0ca9105
-
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/JZ6Isim2e48)
-
-*Click the image above to watch the demo video showcasing the Agentic AI System in action.*
 
 ## 📈 Business Value
 
